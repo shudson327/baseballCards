@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/baseballCards/static/css/main.c82fbaae.chunk.css",
+    "main.js": "/baseballCards/static/js/main.3e7472e2.chunk.js",
+    "main.js.map": "/baseballCards/static/js/main.3e7472e2.chunk.js.map",
+    "runtime-main.js": "/baseballCards/static/js/runtime-main.20995b37.js",
+    "runtime-main.js.map": "/baseballCards/static/js/runtime-main.20995b37.js.map",
+    "static/js/2.b84b0043.chunk.js": "/baseballCards/static/js/2.b84b0043.chunk.js",
+    "static/js/2.b84b0043.chunk.js.map": "/baseballCards/static/js/2.b84b0043.chunk.js.map",
+    "static/js/3.6efaf2ba.chunk.js": "/baseballCards/static/js/3.6efaf2ba.chunk.js",
+    "static/js/3.6efaf2ba.chunk.js.map": "/baseballCards/static/js/3.6efaf2ba.chunk.js.map",
+    "index.html": "/baseballCards/index.html",
+    "static/css/main.c82fbaae.chunk.css.map": "/baseballCards/static/css/main.c82fbaae.chunk.css.map",
+    "static/js/2.b84b0043.chunk.js.LICENSE.txt": "/baseballCards/static/js/2.b84b0043.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20995b37.js",
+    "static/js/2.b84b0043.chunk.js",
+    "static/css/main.c82fbaae.chunk.css",
+    "static/js/main.3e7472e2.chunk.js"
+  ]
+}
